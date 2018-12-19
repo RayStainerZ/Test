@@ -5,6 +5,7 @@ int main()
 	a = 1;
 	cout<<a"\n"; 
 	cout<<"1\n";
+	cout<<"2\n";
 
 	return 0;
 }
